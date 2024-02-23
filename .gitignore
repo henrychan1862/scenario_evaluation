@@ -1,0 +1,12 @@
+data/*csv
+data/*xlsx
+define/*.csv
+define/*.yaml
+log/*.log
+output/*.csv
+.RData
+.Rproj.user/*
+.Rhistory
+.Rproj.user
+.lintr
+.vscode
